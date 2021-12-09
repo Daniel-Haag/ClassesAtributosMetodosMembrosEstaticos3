@@ -1,0 +1,7 @@
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\OSalarioMedio\OSalarioMedio\bin\Debug\OSalarioMedio.exe.config
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\OSalarioMedio\OSalarioMedio\bin\Debug\OSalarioMedio.exe
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\OSalarioMedio\OSalarioMedio\bin\Debug\OSalarioMedio.pdb
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\OSalarioMedio\OSalarioMedio\obj\Debug\OSalarioMedio.csprojAssemblyReference.cache
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\OSalarioMedio\OSalarioMedio\obj\Debug\OSalarioMedio.csproj.CoreCompileInputs.cache
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\OSalarioMedio\OSalarioMedio\obj\Debug\OSalarioMedio.exe
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\OSalarioMedio\OSalarioMedio\obj\Debug\OSalarioMedio.pdb
